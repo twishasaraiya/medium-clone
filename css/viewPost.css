@@ -1,0 +1,30 @@
+.wrapper{
+    font-size: 16px;
+    font-family: 'Merriweather';
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: #5CD1A5 ;
+    color: #464646;
+
+}
+.extra{
+    font-size: 12px;
+    color: #ddd;
+}
+.box{
+    width: 100%;
+    height: auto;
+    background-color: #fff ;
+    padding: 0.5em;
+    border-radius: 10px;
+    margin: 0.5em;
+    display: inline-block;
+}
+.box h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+.box img{
+    width: 100%;
+}
