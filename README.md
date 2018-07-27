@@ -7,8 +7,9 @@ Fifth Semester Mini Project using PHP and SQLite on backend and JQuery and Boots
 - [x] User Login
 - [x] Add New Post
 - [x] Delete Post
-- [x] Update Post
+- [x] Update/Edit Post
 - [x] Like Post(Only one like can be given by each user)
+- [x] Session Managament in PHP
 - [ ] Dislike Post
 - [ ] User Profile(Currently only icon is displayed)
 
